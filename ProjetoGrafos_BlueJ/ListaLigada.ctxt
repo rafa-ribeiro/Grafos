@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ criarLista()
+comment1.params=
+comment1.target=boolean\ estarVazia()
+comment10.params=vadj
+comment10.target=boolean\ buscarInserir(Adjacencia)
+comment11.params=
+comment11.target=void\ mostrarLista()
+comment2.params=
+comment2.target=int\ obterTamanho()
+comment3.params=
+comment3.target=No\ obterPrimeiroNo()
+comment4.params=
+comment4.target=No\ obterProximoNo()
+comment5.params=vadj
+comment5.target=boolean\ inserirNoInicio(Adjacencia)
+comment6.params=vadj
+comment6.target=boolean\ inserirNoFim(Adjacencia)
+comment7.params=vadj
+comment7.target=boolean\ remover(Adjacencia)
+comment8.params=vadj
+comment8.target=No\ buscar(Adjacencia)
+comment9.params=vadj
+comment9.target=boolean\ buscarAdj(Adjacencia)
+numComments=12

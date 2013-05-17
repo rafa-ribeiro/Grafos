@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ criarFila()
+comment0.text=\n\ Cria\ uma\ fila\ vazia\n
+comment1.params=
+comment1.target=boolean\ estarVazia()
+comment1.text=\n\ Devolve\ true\ se\ a\ fila\ est\uFFFD\ vazia\n
+comment2.params=v
+comment2.target=boolean\ colocar(int)
+comment2.text=\n\ Coloca\ o\ valor\ v\ na\ fila\ e\ devolve\ true.\ Caso\ n\uFFFDo\ seja\ poss\uFFFDvel,\ devolve\ false.\n
+comment3.params=
+comment3.target=int\ retirar()
+comment3.text=\n\ Devolve\ o\ primeiro\ elemento\ da\ fila\ e\ o\ retira\ da\ fila.\ \n\ Caso\ a\ fila\ seja\ vazia,\ devolve\ o\ valor\ -1.\ \n
+comment4.params=
+comment4.target=int\ acessarPrimeiro()
+comment4.text=\n\ Devolve\ o\ primeiro\ elemento\ da\ fila.\ Caso\ a\ fila\ seja\ vazia,\ devolve\ o\ valor\ -1.\n
+comment5.params=
+comment5.target=int\ acessarUltimo()
+comment5.text=\n\ Devolve\ o\ \uFFFDltimo\ elemento\ da\ fila.\ Caso\ a\ fila\ seja\ vazia,\ devolve\ o\ valor\ -1.\n
+numComments=6

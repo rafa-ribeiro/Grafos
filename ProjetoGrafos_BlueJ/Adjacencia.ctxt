@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=v
+comment0.target=void\ criarAdjacencia(int)
+comment1.params=v\ marca
+comment1.target=void\ criarAdjacencia(int,\ int)
+comment2.params=v\ marca\ custo
+comment2.target=void\ criarAdjacencia(int,\ int,\ float)
+comment3.params=w
+comment3.target=void\ alterarVertice(int)
+comment4.params=
+comment4.target=int\ obterVertice()
+comment5.params=marca
+comment5.target=void\ alterarMarca(int)
+comment6.params=
+comment6.target=int\ obterMarca()
+comment7.params=p
+comment7.target=void\ alterarCusto(float)
+comment8.params=
+comment8.target=float\ obterCusto()
+comment9.params=adj
+comment9.target=int\ compararVertice(Adjacencia)
+numComments=10

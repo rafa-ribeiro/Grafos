@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ criarPilha()
+comment0.text=\n\ Cria\ uma\ pilha\ vazia;\n
+comment1.params=qtd
+comment1.target=void\ alterarTamanhoMax(int)
+comment1.text=\n\ Define\ um\ valor\ para\ o\ atributo\ tamanhoMax\ \n
+comment2.params=
+comment2.target=boolean\ estarVazia()
+comment2.text=\n\ Devolve\ true\ se\ a\ pilha\ estiver\ vazia\n
+comment3.params=v
+comment3.target=boolean\ colocar(int)
+comment3.text=\n\ Colocar\ o\ valor\ v\ na\ pilha\ e\ devolve\ true,\ Caso\ n\uFFFDo\ seja\ poss\uFFFDvel,\ devolve\ false.\n
+comment4.params=
+comment4.target=int\ retirar()
+comment4.text=\n\ Devolve\ o\ elemento\ do\ topo\ da\ pilha\ e\ o\ retira\ da\ pilha.\ Caso\ a\ pilha\ seja\ vazia,\ devolve\ o\ valor\ zero.\n
+comment5.params=
+comment5.target=int\ acessarTopo()
+comment5.text=\n\ Devolve\ o\ elemento\ do\ topo\ da\ pilha.\ Caso\ a\ pilha\ seja\ vazia,\ devolve\ o\ valor\ zero.\n
+numComments=6
